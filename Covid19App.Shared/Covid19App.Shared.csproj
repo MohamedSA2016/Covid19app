@@ -30,7 +30,6 @@
     <Folder Include="Controls\" />
     <Folder Include="Helpers\" />
     <Folder Include="Services\" />
-    <Folder Include="Models\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Interfaces\" />
   </ItemGroup>
